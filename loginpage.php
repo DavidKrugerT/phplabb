@@ -1,1 +1,2 @@
-<?php include 'header.php';include 'login.php'; include 'css/footer.php';
+<?php include 'header.php';
+include 'includes/login.php'; include 'includes/footer.php';

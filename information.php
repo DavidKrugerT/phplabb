@@ -3,7 +3,8 @@ session_start();
 if (! empty($_SESSION['logged_in'])){
     ?>
 
-    <?php include 'header.php'; include 'info.php'; include 'css/footer.php'?>
+    <?php include 'header.php'; include 'info.php';
+    include 'includes/footer.php' ?>
 
     <?php
 }

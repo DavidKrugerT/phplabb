@@ -1,1 +1,1 @@
-<?php include 'header.php'; include 'body.php'; include 'css/footer.php';
+<?php include 'header.php'; include 'includes/body.php'; include 'includes/footer.php';

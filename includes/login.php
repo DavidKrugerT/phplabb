@@ -9,9 +9,10 @@ else{
     ?>
     <form method="post">
         Username: <input name="user" type="text"><br>
-        Password_ <input name="pass" type="text"><br><br>
+        Password_ <input name="pass" type="password"><br><br>
         <input type="submit" value="submit">
     </form>
 
     <?php
 }
+
